@@ -22,7 +22,10 @@ namespace p1_desktop
         public Jogador(string nome)
         { 
             this.Nome = nome;
-            string jsonContent = File.ReadAllText("C:\\Users\\Desktop\\source\\repos\\p1-desktop\\p1-desktop\\Resources\\cards.json");
+            
+            string appDirectory = AppDomain.CurrentDomain.BaseDirectory;
+            string cardsPath = Path.Combine(appDirectory, "Resources", "cards.json");
+            string jsonContent = File.ReadAllText(cardsPath);
             Deck = JsonConvert.DeserializeObject<IList<Carta>>(jsonContent);
             DistribuirCartas();
         }
