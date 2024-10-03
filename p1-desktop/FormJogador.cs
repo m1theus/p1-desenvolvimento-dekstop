@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
@@ -128,12 +129,14 @@ namespace p1_desktop
             int posX = 20;
             foreach (Carta carta in cartas)
             {
+                string appDirectory = AppDomain.CurrentDomain.BaseDirectory;
+                string cardPath = Path.Combine(appDirectory, "Resources", carta.Path);
                 var buttonCarta = new Button
                 {
                     BackColor = Color.Transparent,
                     Size = new Size(imagemX, imagemY),
                     Location = new Point(posX, 300),
-                    BackgroundImage = ResizeImage(Image.FromFile(carta.Path), imagemX, imagemY),
+                    BackgroundImage = ResizeImage(Image.FromFile(cardPath), imagemX, imagemY),
                     Enabled = (Jogador.Energia >= carta.Energia) && Jogador.EhMeuTurno(),
                 };
 
@@ -144,7 +147,6 @@ namespace p1_desktop
 
                 posX += 240;
             }
-            
 
         }
 

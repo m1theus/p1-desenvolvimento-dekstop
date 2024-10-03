@@ -1,74 +1,74 @@
 [
     {
         "nome": "fire1.png",
-        "dano": 6,
-        "energia": 8,
-        "path": "C:\\Users\\Desktop\\source\\repos\\p1-desktop\\p1-desktop\\Resources\\fire1.png"
+        "dano": 8,
+        "energia": 4,
+        "path": "fire1.png"
     },
     {
         "nome": "fire2.png",
-        "dano": 6,
-        "energia": 8,
-        "path": "C:\\Users\\Desktop\\source\\repos\\p1-desktop\\p1-desktop\\Resources\\fire2.png"
+        "dano": 3,
+        "energia": 2,
+        "path": "fire2.png"
     },
     {
         "nome": "fire3.png",
-        "dano": 6,
-        "energia": 8,
-        "path": "C:\\Users\\Desktop\\source\\repos\\p1-desktop\\p1-desktop\\Resources\\fire3.png"
+        "dano": 2,
+        "energia": 1,
+        "path": "fire3.png"
     },
     {
         "nome": "fire4.png",
-        "dano": 6,
+        "dano": 10,
         "energia": 8,
-        "path": "C:\\Users\\Desktop\\source\\repos\\p1-desktop\\p1-desktop\\Resources\\fire4.png"
+        "path": "fire4.png"
     },
     {
         "nome": "nature1.png",
-        "dano": 6,
-        "energia": 8,
-        "path": "C:\\Users\\Desktop\\source\\repos\\p1-desktop\\p1-desktop\\Resources\\nature1.png"
+        "dano": 3,
+        "energia": 4,
+        "path": "nature1.png"
     },
     {
         "nome": "nature2.png",
-        "dano": 6,
-        "energia": 8,
-        "path": "C:\\Users\\Desktop\\source\\repos\\p1-desktop\\p1-desktop\\Resources\\nature2.png"
+        "dano": 2,
+        "energia": 2,
+        "path": "nature2.png"
     },
     {
         "nome": "nature3.png",
         "dano": 6,
         "energia": 8,
-        "path": "C:\\Users\\Desktop\\source\\repos\\p1-desktop\\p1-desktop\\Resources\\nature3.png"
+        "path": "nature3.png"
     },
     {
         "nome": "nature4.png",
-        "dano": 6,
+        "dano": 8,
         "energia": 8,
-        "path": "C:\\Users\\Desktop\\source\\repos\\p1-desktop\\p1-desktop\\Resources\\nature4.png"
+        "path": "nature4.png"
     },
     {
         "nome": "ice1.png",
         "dano": 6,
         "energia": 8,
-        "path": "C:\\Users\\Desktop\\source\\repos\\p1-desktop\\p1-desktop\\Resources\\ice1.png"
+        "path": "ice1.png"
     },
     {
         "nome": "ice2.png",
-        "dano": 6,
-        "energia": 8,
-        "path": "C:\\Users\\Desktop\\source\\repos\\p1-desktop\\p1-desktop\\Resources\\ice2.png"
+        "dano": 10,
+        "energia": 6,
+        "path": "ice2.png"
     },
     {
         "nome": "ice3.png",
-        "dano": 6,
-        "energia": 8,
-        "path": "C:\\Users\\Desktop\\source\\repos\\p1-desktop\\p1-desktop\\Resources\\ice3.png"
+        "dano": 1,
+        "energia": 2,
+        "path": "ice3.png"
     },
     {
         "nome": "ice4.png",
-        "dano": 6,
-        "energia": 8,
-        "path": "C:\\Users\\Desktop\\source\\repos\\p1-desktop\\p1-desktop\\Resources\\ice4.png"
+        "dano": 3,
+        "energia": 2,
+        "path": "ice4.png"
     }
 ]

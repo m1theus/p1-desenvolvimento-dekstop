@@ -60,8 +60,12 @@ namespace p1_desktop
             // Novo Jogo
             Jogo = new Jogo(jogador1, jogador2);
 
-            Image char1 = Image.FromFile("C:\\Users\\Desktop\\source\\repos\\p1-desktop\\p1-desktop\\Resources\\char1.png");
-            Image char2 = Image.FromFile("C:\\Users\\Desktop\\source\\repos\\p1-desktop\\p1-desktop\\Resources\\char2.png");
+            string appDirectory = AppDomain.CurrentDomain.BaseDirectory;
+            string char1Path = Path.Combine(appDirectory, "Resources", "char1.png");
+            string char2Path = Path.Combine(appDirectory, "Resources", "char2.png");
+
+            Image char1 = Image.FromFile(char1Path);
+            Image char2 = Image.FromFile(char2Path);
 
             FormJogador1 = new FormJogador(this, Jogo, jogador1, char2);
             FormJogador2 = new FormJogador(this, Jogo, jogador2, char1);
