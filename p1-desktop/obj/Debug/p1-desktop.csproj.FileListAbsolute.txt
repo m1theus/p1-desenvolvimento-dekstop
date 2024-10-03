@@ -1,0 +1,13 @@
+C:\Users\Desktop\source\repos\p1-desktop\p1-desktop\bin\Debug\p1-desktop.exe.config
+C:\Users\Desktop\source\repos\p1-desktop\p1-desktop\bin\Debug\p1-desktop.exe
+C:\Users\Desktop\source\repos\p1-desktop\p1-desktop\bin\Debug\p1-desktop.pdb
+C:\Users\Desktop\source\repos\p1-desktop\p1-desktop\obj\Debug\p1-desktop.csproj.AssemblyReference.cache
+C:\Users\Desktop\source\repos\p1-desktop\p1-desktop\obj\Debug\p1_desktop.Principal.resources
+C:\Users\Desktop\source\repos\p1-desktop\p1-desktop\obj\Debug\p1_desktop.Properties.Resources.resources
+C:\Users\Desktop\source\repos\p1-desktop\p1-desktop\obj\Debug\p1-desktop.csproj.GenerateResource.cache
+C:\Users\Desktop\source\repos\p1-desktop\p1-desktop\obj\Debug\p1-desktop.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\p1-desktop\p1-desktop\obj\Debug\p1-desktop.exe
+C:\Users\Desktop\source\repos\p1-desktop\p1-desktop\obj\Debug\p1-desktop.pdb
+C:\Users\Desktop\source\repos\p1-desktop\p1-desktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Desktop\source\repos\p1-desktop\p1-desktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Desktop\source\repos\p1-desktop\p1-desktop\obj\Debug\p1-desktop.csproj.Up2Date
