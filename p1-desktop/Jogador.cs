@@ -32,7 +32,7 @@ namespace p1_desktop
 
         public void AumentarEnergia()
         {
-            if (Energia <= 10) Energia++;
+            if (Energia <= 10) Energia += 3;
         }
 
         public void DistribuirCartas()
