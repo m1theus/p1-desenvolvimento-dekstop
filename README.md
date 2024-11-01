@@ -3,6 +3,8 @@
 
 #### Desenvolvido para a disciplina de Desenvolvimento para Desktop I do curso de Sistemas de Informação da Universidade de Araraquara (UNIARA)
 ---
+Faça o download [Download](https://github.com/m1theus/p1-desenvolvimento-desktop/releases/tag/v1.0.0)
+
 ![image](https://github.com/user-attachments/assets/74cdeebb-15ed-4da5-9ec3-d8da63e3a5b0)
 ---
 ## Tecnologias Utilizadas
@@ -46,4 +48,7 @@
  ```bash
  git clone https://github.com/m1theus/p1-desenvolvimento-desktop.git
 ```
+
+Download da release v1.0.0
+ - [Download](https://github.com/m1theus/p1-desenvolvimento-desktop/releases/tag/v1.0.0)
 
