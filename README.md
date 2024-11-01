@@ -3,7 +3,7 @@
 
 #### Desenvolvido para a disciplina de Desenvolvimento para Desktop I do curso de Sistemas de Informação da Universidade de Araraquara (UNIARA)
 ---
-Faça o download [Download](https://github.com/m1theus/p1-desenvolvimento-desktop/releases/tag/v1.0.0)
+Faça o [Download](https://github.com/m1theus/p1-desenvolvimento-desktop/releases/tag/v1.0.0)
 
 ![image](https://github.com/user-attachments/assets/74cdeebb-15ed-4da5-9ec3-d8da63e3a5b0)
 ---
@@ -18,7 +18,7 @@ Faça o download [Download](https://github.com/m1theus/p1-desenvolvimento-deskto
 
 - **Modo de Jogo Multijogador:** Dois jogadores competem em turnos alternados.
 - **Sistema de Deck e Cartas:** Cada jogador possui um deck de 5 cartas por rodada, que são substituídas ao final de cada turno.
-- **Energia Progressiva:** Cada jogador começa com 1 ponto de energia, que aumenta a cada turno até o máximo de 9, permitindo o uso de cartas mais poderosas ao longo do jogo.
+- **Energia Progressiva:** Cada jogador começa com 1 ponto de energia, que aumenta a cada turno até o máximo de 10, permitindo o uso de cartas mais poderosas ao longo do jogo.
 - **Pontos de Vida:** Ambos os jogadores iniciam com 100 pontos de vida; o primeiro a chegar a 0 perde o jogo.
 - **Sistema de Descarte Automático:** Cartas não usadas no turno são descartadas e novas cartas são puxadas para a próxima rodada.
 - **Interface Gráfica Intuitiva:** A interface permite a seleção e uso de cartas, além de acompanhar o progresso dos jogadores.
@@ -27,7 +27,7 @@ Faça o download [Download](https://github.com/m1theus/p1-desenvolvimento-deskto
 
 1. **Objetivo:** Reduzir os pontos de vida do oponente a zero.
 2. **Turnos Alternados:** Os jogadores jogam alternadamente, usando cartas do deck para atacar ou defender.
-3. **Cartas e Energia:** Cada carta possui um custo de energia. Os jogadores ganham 1 ponto de energia adicional por turno (até o máximo de 9).
+3. **Cartas e Energia:** Cada carta possui um custo de energia. Os jogadores ganham entre 1-3 ponto de energia adicional por turno (até o máximo de 10).
 4. **Descarte e Substituição:** Ao final de cada turno, cartas não usadas são descartadas e substituídas por novas cartas no próximo turno.
 
 ## Estrutura do Projeto
