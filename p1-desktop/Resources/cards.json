@@ -1,73 +1,73 @@
 [
     {
         "nome": "fire1.png",
-        "dano": 8,
+        "dano": 18,
         "energia": 4,
         "path": "fire1.png"
     },
     {
         "nome": "fire2.png",
-        "dano": 3,
+        "dano": 13,
         "energia": 2,
         "path": "fire2.png"
     },
     {
         "nome": "fire3.png",
-        "dano": 2,
+        "dano": 12,
         "energia": 1,
         "path": "fire3.png"
     },
     {
         "nome": "fire4.png",
-        "dano": 10,
+        "dano": 20,
         "energia": 8,
         "path": "fire4.png"
     },
     {
         "nome": "nature1.png",
-        "dano": 3,
+        "dano": 13,
         "energia": 4,
         "path": "nature1.png"
     },
     {
         "nome": "nature2.png",
-        "dano": 2,
+        "dano": 12,
         "energia": 2,
         "path": "nature2.png"
     },
     {
         "nome": "nature3.png",
-        "dano": 6,
+        "dano": 16,
         "energia": 8,
         "path": "nature3.png"
     },
     {
         "nome": "nature4.png",
-        "dano": 8,
+        "dano": 18,
         "energia": 8,
         "path": "nature4.png"
     },
     {
         "nome": "ice1.png",
-        "dano": 6,
+        "dano": 16,
         "energia": 8,
         "path": "ice1.png"
     },
     {
         "nome": "ice2.png",
-        "dano": 10,
+        "dano": 20,
         "energia": 6,
         "path": "ice2.png"
     },
     {
         "nome": "ice3.png",
-        "dano": 1,
+        "dano": 20,
         "energia": 2,
         "path": "ice3.png"
     },
     {
         "nome": "ice4.png",
-        "dano": 3,
+        "dano": 13,
         "energia": 2,
         "path": "ice4.png"
     }
